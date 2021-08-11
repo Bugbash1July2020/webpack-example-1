@@ -1,5 +1,5 @@
 
-**NOTE:** this example has been moved to https://github.com/fullcalendar/fullcalendar-example-projects/tree/master/webpack
+**NOTE:** this example has been moved to https://github.com/fullcalendar/fullcalendar-example-projects/tree/master/webpack. I know
 
 # FullCalendar Webpack Example
 
